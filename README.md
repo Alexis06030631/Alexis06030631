@@ -18,8 +18,6 @@ High school student in France
 
 
 _Programming languages I use:_
-
-  • | JS/TS, Python, PHP/HTML
   
   • | Javascript
   
