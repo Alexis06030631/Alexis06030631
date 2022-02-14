@@ -1,4 +1,7 @@
+<img src='https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=alexis06030631' height='300' widht='300'>
+
 ### <a href="https://surimi-bot.xyz"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a> Hi there
+
 💡 Some facts about me
 
 - 💻 &nbsp;I’m currently working on <a href="https://surimi-bot.xyz">surimi</a> a modular Discord bot
