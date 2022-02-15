@@ -46,5 +46,5 @@
 ![](https://hit.yhype.me/github/profile?user_id=61119747)
 - Work Time Runtime [![Work Time Runtime](https://wakatime.com/badge/user/3583c627-c4e4-4305-a1a2-fa744944f901/project/9b85135b-5e89-4254-961c-58ebbbb2a91c.svg)](https://wakatime.com/badge/user/3583c627-c4e4-4305-a1a2-fa744944f901/project/9b85135b-5e89-4254-961c-58ebbbb2a91c)
 - Work Time Website [![Work Time Website](https://wakatime.com/badge/user/3583c627-c4e4-4305-a1a2-fa744944f901/project/48a2ed85-dfd8-4343-9eb2-2b590097376f.svg)](https://wakatime.com/badge/user/3583c627-c4e4-4305-a1a2-fa744944f901/project/48a2ed85-dfd8-4343-9eb2-2b590097376f)
-- Work Time API [![wakatime](https://wakatime.com/badge/user/3583c627-c4e4-4305-a1a2-fa744944f901/project/9029b676-0056-4167-9e86-9150fbc78dc7.svg)](https://wakatime.com/badge/user/3583c627-c4e4-4305-a1a2-fa744944f901/project/9029b676-0056-4167-9e86-9150fbc78dc7)
-![Countprofil](https://komarev.com/ghpvc/?username=Alexis06030631&color=brightgreen)
+- Work Time API&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![wakatime](https://wakatime.com/badge/user/3583c627-c4e4-4305-a1a2-fa744944f901/project/9029b676-0056-4167-9e86-9150fbc78dc7.svg)](https://wakatime.com/badge/user/3583c627-c4e4-4305-a1a2-fa744944f901/project/9029b676-0056-4167-9e86-9150fbc78dc7)
+<br/><br/>![Countprofil](https://komarev.com/ghpvc/?username=Alexis06030631&color=brightgreen)
