@@ -4,7 +4,7 @@
 
 💡 Some facts about me
 
-- 💻 &nbsp;I’m currently working on <a href="https://surimi-bot.xyz">surimi</a> a modular Discord bot
+- 💻 &nbsp;I’m currently working on <a href="https://surimi-bot.xyz"><img alt="Surimi" src="https://img.shields.io/website?down_color=red&label=Surimi&down_message=black&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fsurimi-bot.xyz" height="15"></a> a modular Discord bot
 - 🌱 &nbsp;I’m currently learning Go
 - <img src="https://media.giphy.com/media/KGZJMPisr8kaZiCS1q/giphy-downsized.gif" width="20px"> &nbsp;My social networks: [@leko_system](https://instagram.com/leko_system) or [@lekosystem](https://twitter.com/lekosystem)
 - ⚡ &nbsp;I :heart: 🎵 && I sometimes produce mixes [here](https://instagram.com/leko_system)
