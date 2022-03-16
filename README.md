@@ -32,7 +32,8 @@
 </details>
 
 <details>
-  <summary><b>📈&nbsp;&nbsp;Language stats</b></summary>
+  <summary><b>📈&nbsp;&nbsp;Codding stats</b></summary>
+  <figure><img src="https://wakatime.com/share/@Alexis060306/efb8004c-0d38-401a-96f6-faf2737529ac.svg"></img></figure>
   <br/>
   <a href='https://profile.codersrank.io/user/alexis06030631/'>
   <img src='https://wakatime.com/share/@Alexis060306/79b528ae-8865-4766-a5c6-d3841e34394f.svg'>
