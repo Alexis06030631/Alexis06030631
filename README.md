@@ -23,7 +23,7 @@
 
 📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Alexis060306&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alexis&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
@@ -48,4 +48,4 @@
 - Work Time Runtime [![Work Time Runtime](https://wakatime.com/badge/user/3583c627-c4e4-4305-a1a2-fa744944f901/project/9b85135b-5e89-4254-961c-58ebbbb2a91c.svg)](https://wakatime.com/badge/user/3583c627-c4e4-4305-a1a2-fa744944f901/project/9b85135b-5e89-4254-961c-58ebbbb2a91c)
 - Work Time Website [![Work Time Website](https://wakatime.com/badge/user/3583c627-c4e4-4305-a1a2-fa744944f901/project/48a2ed85-dfd8-4343-9eb2-2b590097376f.svg)](https://wakatime.com/badge/user/3583c627-c4e4-4305-a1a2-fa744944f901/project/48a2ed85-dfd8-4343-9eb2-2b590097376f)
 - Work Time API&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![wakatime](https://wakatime.com/badge/user/3583c627-c4e4-4305-a1a2-fa744944f901/project/9029b676-0056-4167-9e86-9150fbc78dc7.svg)](https://wakatime.com/badge/user/3583c627-c4e4-4305-a1a2-fa744944f901/project/9029b676-0056-4167-9e86-9150fbc78dc7)
-<br/><br/>![Countprofil](https://komarev.com/ghpvc/?username=Alexis06030631&color=brightgreen)
+<br/><br/>![Countprofil](https://komarev.com/ghpvc/?username=Alexis06030631&color=brightgreen) ![Worktime last 30d](https://wakapi.dev/api/badge/Alexis/Alexis/interval:30_days)
