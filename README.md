@@ -6,7 +6,7 @@
 
 - 💻 &nbsp;I’m currently working on <a href="https://surimi-bot.xyz"><img alt="Surimi" src="https://img.shields.io/website?down_color=red&label=Surimi&down_message=Down&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fsurimi-bot.xyz" height="15"></a> a modular Discord bot
 - 🌱 &nbsp;I’m currently learning Go
-- <img src="https://media.giphy.com/media/KGZJMPisr8kaZiCS1q/giphy-downsized.gif" width="20px"> &nbsp;My social networks: [@leko_system](https://instagram.com/leko_system) or [@lekosystem](https://twitter.com/lekosystem)
+- <img src="https://media.giphy.com/media/KGZJMPisr8kaZiCS1q/giphy-downsized.gif" width="20"> &nbsp;My social networks: [@leko_system](https://instagram.com/leko_system) or [@lekosystem](https://twitter.com/lekosystem)
 - ⚡ &nbsp;I :heart: 🎵 && I sometimes produce mixes [here](https://instagram.com/leko_system)
 
 🔗 &nbsp;**Connect with me**
@@ -17,7 +17,7 @@
 <a href="https://instagram.com/leko_system" target="blank">
   <img align="center" src="https://media.giphy.com/media/WyZy1cltG36Y04OCLG/giphy.gif" alt="leko_system" height="40" width="40" />
 </a>
-  <a href="https://profile.codersrank.io/user/alexis06030631/" target="blank">
+<a href="https://profile.codersrank.io/user/alexis06030631/" target="blank">
   <img align="center" src="https://seeklogo.com/images/C/codersrank-logo-31F4344B52-seeklogo.com.png" alt="leko_system" height="30" width="40" />
 </a>
 
@@ -43,6 +43,7 @@
   <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=alexis06030631&padding=30'>
   </a>
 </details>
+<img align="center" src="https://lanyard.cnrad.dev/api/712373860263002142" alt="discord" />
 
 ![](https://hit.yhype.me/github/profile?user_id=61119747)
 - Work Time Runtime [![Work Time Runtime](https://wakatime.com/badge/user/3583c627-c4e4-4305-a1a2-fa744944f901/project/9b85135b-5e89-4254-961c-58ebbbb2a91c.svg)](https://wakatime.com/badge/user/3583c627-c4e4-4305-a1a2-fa744944f901/project/9b85135b-5e89-4254-961c-58ebbbb2a91c)
